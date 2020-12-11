@@ -9,6 +9,7 @@ default_original_image: images/plant6-lg.jpg
 category: src/pages/category/bigplants.md
 section: Store
 template: product
+featured: true
 ---
 
 # Donec finibus
